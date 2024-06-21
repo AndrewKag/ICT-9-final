@@ -45,26 +45,7 @@ h3 {color:white}
 
 }
 
-.peasant {
-  margin: 20px;
-  padding: 20px;
-  left:260px;
-  top:450px;
-  text-align: left;
-  position: absolute;
-  style="text-decoration:none;"
 
-}
-.nobleman {
-  margin: 20px;
-  padding: 20px;
-  right:170px;
-  top:450px;
-  text-align: left;
-  position: absolute;
-  style="text-decoration:none;"
-
-}
 a:link{
   color:white;
   text-decoration:none;
